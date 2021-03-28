@@ -19,5 +19,5 @@ Discord: Astivery#6846
 </a>
 
 <h1 align='center'> Educational Purposes </h1>
-<p align='center'> MOTD: Happy Mind, Happy Code :) <p>
+<p align='center'>127.0.0.1<p>
 
