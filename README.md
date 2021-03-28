@@ -3,6 +3,6 @@
   <p   align="left">Discord</p>
 </a>
 
-<h1 align='center'> Educational Purposes </h1>
+<h1 align='center'> Educational Purposes Only</h1>
 <p align='center'>127.0.0.1<p>
 
