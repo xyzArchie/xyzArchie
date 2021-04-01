@@ -3,7 +3,7 @@
   <p   align="left">Discord</p>
   
   <p> </p>
-  <img align="left" alt="Astivery's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" alt="Astivery's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astivery&show_icons=true&theme=dark" />
 </a>
 
 <h1 align='center'> Educational Purposes Only</h1>
