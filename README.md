@@ -4,7 +4,7 @@
   
   <p> </p>
   <img align="left" alt="Astivery's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astivery&show_icons=true&theme=dark" />
-  <img align="left" src="https://komarev.com/ghpvc/?astivery&color=green" />
+  <p src="https://komarev.com/ghpvc/?astivery&color=blueviolet" /p>
 </a>
 
 <h1 align='center'> Educational Purposes Only</h1>
