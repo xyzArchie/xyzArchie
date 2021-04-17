@@ -1,4 +1,4 @@
-<a     align="left" href="https://pastebin.com/raw/snq3iTAB">
+<a     align="left" href="https://pastebin.com/raw/FUxHzD3k">
   <img align="left" src="https://raw.githubusercontent.com/Astivery/Astivery/master/DiscordLogo.png?raw=true" height="30px" width="30px"/>
   <p   align="left">Discord</p>
   <a   href="https://www.buymeacoffee.com/astive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="112">
