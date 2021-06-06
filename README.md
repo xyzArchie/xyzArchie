@@ -1,4 +1,5 @@
 <img align="left" src="https://pays.host/uploads/0154cc3f-b02b-4a25-9b83-808228f79ff5/WJ2eT2SE.png" />
+![](https://discord.c99.nl/widget/theme-4/343396887438819328.png)
 <a     align="left" href="https://pastebin.com/raw/FUxHzD3k">
   <p> </p>
   <img align="left" alt="Astivery's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astivery&show_icons=true&theme=dark" />
