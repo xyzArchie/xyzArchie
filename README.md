@@ -1,4 +1,4 @@
-<img src="https://cdn.upload.systems/uploads/c9sAHZ3c.png" />
+<img src="https://cdn.upload.systems/uploads/AKws7WvV.png" />
 <img align="top" src="https://discord.c99.nl/widget/theme-4/817452851751026739.png" />
 
 <a     align="left" href="https://pastebin.com/raw/FUxHzD3k">
