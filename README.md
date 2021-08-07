@@ -6,6 +6,8 @@
   <img align="left" alt="Astivery's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xyz-astivery&show_icons=true&theme=dark" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xyz-archie&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
   
   <a   href="https://www.buymeacoffee.com/astive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="112">
   <p   align="left"> <img src="https://komarev.com/ghpvc/?username=astivery&label=Profile%20views&color=grey&style=flat" alt="astivery" /> </p>
