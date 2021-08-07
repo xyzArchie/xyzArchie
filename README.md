@@ -3,7 +3,7 @@
 
 <a     align="left" href="https://pastebin.com/raw/FUxHzD3k">
   <p> </p>
-  <img align="left" alt="Astivery's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astivery&show_icons=true&theme=dark" />
+  <img align="left" alt="Astivery's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xyz-astivery&show_icons=true&theme=dark" />
 </a>
 
   
